@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmF11D93V9n0nDmGu9otkK86PNr2X4vjNd/a5EmjTK6BNC6HUAscq4GmNIHOc5vZAauLh3A2yH9NZ6zcip88KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaheg\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaheg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
